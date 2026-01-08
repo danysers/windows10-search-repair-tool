@@ -182,30 +182,6 @@ Contributions are welcome! If you have suggestions for improvements or encounter
 
 ---
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-## 🙏 Support
-
-If this tool helped you fix your Windows 10 search issue, consider:
-- ⭐ **Starring** this repository
-- 🐛 **Reporting** any bugs you encounter
-- 💡 **Suggesting** new features or improvements
-
----
-
-## 📞 Contact
-
-Created by **@danysers**
-
-- 📧 **Issues:** [Report a problem](https://github.com/danysers/windows10-search-repair-tool/issues)
-- 💬 **Discussions:** [Join the conversation](https://github.com/danysers/windows10-search-repair-tool/discussions)
-
----
-
 <div align="center">
   <sub>Built with ❤️ for the Windows community</sub>
 </div>
